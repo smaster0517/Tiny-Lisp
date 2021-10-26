@@ -1,0 +1,1 @@
+(reduce (lambda (x y)(cond ((atom x) (list y x)) (t (cons y x)))) '(e s c t n u))
