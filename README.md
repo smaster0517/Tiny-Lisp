@@ -1,2 +1,2 @@
-# hardworking_small
-Repository for small projects
+# Tiny-Lisp
+Tiny codes for some small Lisp functions
