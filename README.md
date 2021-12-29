@@ -1,2 +1,2 @@
 # Tiny-Lisp
-Tiny codes for some small Lisp functions
+Code snippets for some small Lisp functions.
